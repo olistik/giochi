@@ -8,7 +8,7 @@ Ciao mondo.
 
 | Titolo | Età consigliata |
 |--------|-----------------|
-| Magic The Gathering | 5+ |
+| Magic The Gathering | 6+ |
 | Quake 3 | 16+ |
 
 Il gioco [Magic The Gathering](http://magic.wizards.com/en) è molto bello.
