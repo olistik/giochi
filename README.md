@@ -13,4 +13,4 @@ Ciao mondo.
 
 Il gioco [Magic The Gathering](http://magic.wizards.com/en) è molto bello.
 
-Questo progetto è pubblicato secondo la licenza specificata nel file LICENSE.
+Questo progetto è pubblicato secondo la licenza specificata nel file [LICENSE](https://github.com/olistik/giochi/blob/master/LICENSE).
