@@ -6,10 +6,8 @@ Questo è un altro paragrafo.
 
 Ciao mondo.
 
-| Titolo | Età consigliata |
-|--------|-----------------|
-| Magic The Gathering | 6+ |
-| Quake 3 | 16+ |
+- [Magic The Gathering](https://github.com/olistik/giochi/blob/master/magic-the-gathering.md)
+- Quake 3
 
 Il gioco [Magic The Gathering](http://magic.wizards.com/en) è molto bello.
 
